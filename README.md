@@ -1,6 +1,6 @@
 # Capstone-Project-m1
 ## Description
-- Module-1 Capstone Project.
+- Module-1 Capstone Project is the last project of the module 1 leraning and coding activities at Microverse.
 ## Learning Objectives
 - Use semantic HTML tags.
 - Apply best practices in HTML code.
@@ -20,6 +20,9 @@
 ## Live Demo (if available)
 
 [Live Demo Link](https://lugard1.github.io/Capstone-Project-m1/)
+
+## Live Presentation video link of my Capstone-Project-M1
+- https://www.loom.com/share/fdcc1e4c655146c78e4172750545b09a
 ## Prerequisites
 - Setup
 - Install
