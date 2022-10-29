@@ -35,3 +35,5 @@
 - etc
 ## License
 - This project is MIT licensed.
+## Update
+- Link to online version of Capstone-Project-m1: https://lugard1.github.io/Capstone-Project-m1
