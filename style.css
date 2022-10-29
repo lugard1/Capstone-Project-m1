@@ -465,6 +465,7 @@ hr {
   justify-content: center;
   padding: 10px 20px;
   text-align: justify;
+  letter-spacing: -1px;
 }
 
 .about-contact {
@@ -516,13 +517,16 @@ hr {
 }
 
 .about-members-description {
+  width: 80%;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   padding: 10px 20px;
   align-items: center;
   justify-content: center;
-  text-align: justify;
+  text-align: center;
+  color: #000;
+  margin: auto;
 }
 
 .about-pic {
@@ -531,6 +535,7 @@ hr {
   align-items: center;
   justify-content: center;
   margin: auto;
+  padding: 10px 10px 20px 10px;
   width: 80%;
 }
 
@@ -745,7 +750,7 @@ hr {
   }
 
   .about-members-description {
-    text-align: center;
+    /* text-align: center; */
   }
 
   /* about-partners */

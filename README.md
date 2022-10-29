@@ -16,7 +16,10 @@
 - communicate technical concepts to other technical people.
 ## Built with
 - HTML, CSS, and JAVASCRIPT,
-- Visual studio code, Git and GitHub, GitHub Desktop and Git Bash
+- Visual studio code, Git and GitHub, GitHub Desktop and Git Bash.
+## Live Demo (if available)
+
+[Live Demo Link](https://lugard1.github.io/Capstone-Project-m1/)
 ## Prerequisites
 - Setup
 - Install
@@ -33,7 +36,9 @@
 - Hat tip to anyone who supported this work.
 - inspiration.
 - etc
+-  Thank you [Cindy Shin](https://www.behance.net/adagio07) for the inspiration and the [design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) 
 ## License
 - This project is MIT licensed.
 ## Update
 - Link to online version of Capstone-Project-m1: https://lugard1.github.io/Capstone-Project-m1
+- Original Design from [Cindy Shin](https://www.behance.net/adagio07).
