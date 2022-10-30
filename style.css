@@ -558,11 +558,6 @@ hr {
   justify-content: center;
 }
 
-.arrow-img {
-  align-items: center;
-  width: 15%;
-}
-
 #about-partners {
   display: none;
   width: 100%;
@@ -599,7 +594,9 @@ hr {
 
 #footer {
   width: 100%;
-  display: none;
+  display: flex;
+  background-color: #272a31;
+  color: #fff;
 }
 
 .footer-wrapper {
@@ -789,6 +786,16 @@ hr {
     gap: 20px;
   }
 
+  .about-pic-ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .about-pic {
+    width: 90%;
+  }
+
   #about-footer {
     width: 100%;
     background-color: #fff;
@@ -808,28 +815,4 @@ hr {
     display: flex;
   }
 
-  /* footer */
-
-  #footer {
-    display: flex;
-    align-items: center;
-    background-color: #fff;
-    width: 100%;
-  }
-
-  .footer-wrapper {
-    display: flex;
-    width: 95%;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px;
-    vertical-align: middle;
-  }
-
-  .footer-logo {
-    display: flex;
-    align-items: center;
-    justify-items: flex-start;
-    padding-left: 40px;
-  }
 }

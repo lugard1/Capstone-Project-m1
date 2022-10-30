@@ -71,7 +71,7 @@ const testimonialObjs = [
 ];
 let content = '';
 testimonialObjs.forEach((testimonialObj) => {
-  content += `<div class="testimonial-card">
+  content += `<article class="testimonial-card">
    <div class="testimonial-image">
        <img src="${testimonialObj.image}" alt="${testimonialObj.imagedescription}">
    </div>
@@ -81,7 +81,7 @@ testimonialObjs.forEach((testimonialObj) => {
        </h4>
        <p>From ${testimonialObj.city}, ${testimonialObj.country}</p>
    </div>
-</div>`;
+</article>`;
 });
 
 testimonialContainer.innerHTML += content;
